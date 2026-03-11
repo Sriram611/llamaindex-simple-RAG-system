@@ -1,4 +1,4 @@
-#LlamaIndex Simple RAG System
+# LlamaIndex Simple RAG System
 
 This project demonstrates a **Retrieval Augmented Generation (RAG)** pipeline using **LlamaIndex and Google Gemini**.
 
